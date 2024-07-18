@@ -68,14 +68,10 @@ nav ul li a {
   font-size: 3em; /* Larger font size */
 }
 
-p {
-  color: white;
-}
 
 section {
   padding: 20px;
   margin: 20px 0;
-  color: white;
 }
 
 #about {
