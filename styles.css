@@ -3,7 +3,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: white;
+  background-color: grey;
 }
 
 header {
@@ -68,7 +68,6 @@ nav ul li a {
 }
 
 section {
-  background-color: black;
   padding: 20px;
   margin: 20px 0;
 }
