@@ -5,6 +5,9 @@ body {
   font-family: Arial, sans-serif;
   background-color: white;
 }
+div {
+  background-color: black
+}
 
 header {
   display: flex;
