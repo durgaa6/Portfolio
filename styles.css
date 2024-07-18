@@ -3,7 +3,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: black;
+  background-color: white;
 }
 
 
@@ -71,6 +71,11 @@ nav ul li a {
 section {
   padding: 20px;
   margin: 20px 0;
+}
+
+#about{
+  background-color: black;
+  color: white;
 }
 
 h2 {
